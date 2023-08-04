@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),CPH2381)
+ifeq ($(TARGET_DEVICE), rasgulla)
 
 endif
