@@ -1389,6 +1389,7 @@ PRODUCT_PACKAGES += \
     atfwd \
     uceShimService \
     dpmserviceapp \
+    WfdCommon \
     ims \
     qcrilmsgtunnel \
     com.fingerprints.extension \
